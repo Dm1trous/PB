@@ -1214,6 +1214,9 @@ background-color: #f24a2a;
   .container13 {
     padding-top: 0px;
   }
+  .logo-big {
+    width: 400px;
+  }
 }
 
 @media screen and (max-width: 375px) {
@@ -1233,7 +1236,7 @@ background-color: #f24a2a;
     width: 200px;
   }
   .logo-big {
-    width: 400px;
+    width: 300px;
   }
 
 }
