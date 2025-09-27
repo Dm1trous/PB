@@ -881,7 +881,7 @@ background-color: #f24a2a;
   }
 
   .logo-big2 {
-    width: 500px !important;
+    width: 500px;
   }
 
   .container13 {
@@ -1214,7 +1214,6 @@ background-color: #f24a2a;
   .container13 {
     padding-top: 0px;
   }
-
 }
 
 @media screen and (max-width: 375px) {
@@ -1232,6 +1231,9 @@ background-color: #f24a2a;
   }
   .img-clothe {
     width: 200px;
+  }
+  .logo-big {
+    width: 400px;
   }
 
 }
